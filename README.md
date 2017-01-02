@@ -54,3 +54,5 @@ G# A♭		| 220 * 2^(11/12)
 
 
 ----------
+Credits
+Special thanks to @bvagts for decoding the music notes 
