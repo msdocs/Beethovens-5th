@@ -4,11 +4,12 @@ Generating Beethoven's 5th Symphony using Matlab
 ----------
 Authors:
 Mahmoud Saleh:@msdocs
+
 Leslie Daniel:    @lesdaniel
-Abdulaziz Alsaedi
+
 Mathew Warshaw: @M_WARSH
 
-[TOC]
+Abdulaziz Alsaedi
 
 
 Making of Beethoven's 5th Symphony  in MATLAB
